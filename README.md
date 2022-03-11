@@ -19,7 +19,7 @@ The course covered the following concepts:
 | 9 - 10  | Data Analysis/Handling Exceptions |
 | 11 - 13 | Using Objects/Project             |
 
-The class generally followed a 2-week pattern for 8 weeks, each 2-week period focusing on one of the four object-oriented programming principles: Inheritance, Encapsulation, Abstraction, and Polymorphism. The 2-week sessions consisted of a solo checkpoint and a larger team programming project. As such, the class focused a lot on collaborating on a team to design and develop projects.
+The class generally followed a weekly pattern, each consisted of a solo checkpoint and a larger team programming project. As such, the class focused a lot on collaborating on a team to design and develop projects.
 
 The class encouraged students to add something extra, so many for the assignments exceed the original assignment's requirements.
 
