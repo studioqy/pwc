@@ -1,0 +1,16 @@
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\bin\Debug\net5.0\NameFormatting.exe
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\bin\Debug\net5.0\NameFormatting.deps.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\bin\Debug\net5.0\NameFormatting.runtimeconfig.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\bin\Debug\net5.0\NameFormatting.runtimeconfig.dev.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\bin\Debug\net5.0\NameFormatting.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\bin\Debug\net5.0\ref\NameFormatting.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\bin\Debug\net5.0\NameFormatting.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\NameFormatting.csproj.AssemblyReference.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\NameFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\NameFormatting.AssemblyInfoInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\NameFormatting.AssemblyInfo.cs
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\NameFormatting.csproj.CoreCompileInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\NameFormatting.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\ref\NameFormatting.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\NameFormatting.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\NameFormatting\obj\Debug\net5.0\NameFormatting.genruntimeconfig.cache

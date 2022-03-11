@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CmoJGRgsDeS/6IUG105UeVHy5IxmkGY77s0rUZRI/OcRaqDIUKdfqFIEG1fZSb8DaG01d5pW/q6mk8NaP+enFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\school_and_work\\OneDrive\\Documents\\School\\Fall 2021\\Programming With Classes\\My C# Code\\Class Code\\Solo Checkpoints\\cse210-student-csharp-solo-checkpoints\\07-snake\\07-snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\school_and_work\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\school_and_work\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

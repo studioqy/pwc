@@ -1,0 +1,32 @@
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\bin\Debug\net5.0\TicTacToe.exe
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\TicTacToe\obj\Debug\net5.0\TicTacToe.genruntimeconfig.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\bin\Debug\net5.0\TicTacToe.exe
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\W02\TicTacToe\obj\Debug\net5.0\TicTacToe.genruntimeconfig.cache

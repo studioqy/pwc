@@ -1,0 +1,16 @@
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\bin\Debug\net5.0\GradeCalculator.exe
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\bin\Debug\net5.0\GradeCalculator.deps.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\bin\Debug\net5.0\GradeCalculator.runtimeconfig.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\bin\Debug\net5.0\GradeCalculator.runtimeconfig.dev.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\bin\Debug\net5.0\GradeCalculator.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\bin\Debug\net5.0\ref\GradeCalculator.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\bin\Debug\net5.0\GradeCalculator.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\GradeCalculator.csproj.AssemblyReference.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\GradeCalculator.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\ref\GradeCalculator.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\GradeCalculator.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GradeCalculator\obj\Debug\net5.0\GradeCalculator.genruntimeconfig.cache

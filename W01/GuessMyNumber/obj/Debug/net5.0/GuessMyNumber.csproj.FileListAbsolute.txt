@@ -1,0 +1,16 @@
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.exe
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.deps.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.runtimeconfig.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.runtimeconfig.dev.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\bin\Debug\net5.0\ref\GuessMyNumber.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\bin\Debug\net5.0\GuessMyNumber.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.csproj.AssemblyReference.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.AssemblyInfoInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.AssemblyInfo.cs
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.csproj.CoreCompileInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\ref\GuessMyNumber.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\GuessMyNumber\obj\Debug\net5.0\GuessMyNumber.genruntimeconfig.cache

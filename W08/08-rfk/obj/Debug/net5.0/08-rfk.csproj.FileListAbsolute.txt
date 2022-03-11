@@ -1,0 +1,49 @@
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\Solo Checkpoints\cse210-student-csharp-solo-checkpoints\08-rfk\obj\Debug\net5.0\08-rfk.csproj.AssemblyReference.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\Solo Checkpoints\cse210-student-csharp-solo-checkpoints\08-rfk\obj\Debug\net5.0\08-rfk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\Solo Checkpoints\cse210-student-csharp-solo-checkpoints\08-rfk\obj\Debug\net5.0\08-rfk.AssemblyInfoInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\Solo Checkpoints\cse210-student-csharp-solo-checkpoints\08-rfk\obj\Debug\net5.0\08-rfk.AssemblyInfo.cs
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\Solo Checkpoints\cse210-student-csharp-solo-checkpoints\08-rfk\obj\Debug\net5.0\08-rfk.csproj.CoreCompileInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\08-rfk.exe
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\08-rfk.deps.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\08-rfk.runtimeconfig.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\08-rfk.runtimeconfig.dev.json
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\08-rfk.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\ref\08-rfk.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\08-rfk.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\Raylib-cs.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.csproj.AssemblyReference.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.AssemblyInfoInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.AssemblyInfo.cs
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.csproj.CoreCompileInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.csproj.CopyComplete
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\ref\08-rfk.dll
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.pdb
+C:\Users\school_and_work\OneDrive\Documents\School\Fall 2021\Programming With Classes\My C# Code\Class Code\github_code\08-rfk\obj\Debug\net5.0\08-rfk.genruntimeconfig.cache
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\08-rfk.exe
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\08-rfk.deps.json
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\08-rfk.runtimeconfig.json
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\08-rfk.runtimeconfig.dev.json
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\08-rfk.dll
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\08-rfk.pdb
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\Raylib-cs.dll
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.csproj.AssemblyReference.cache
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.AssemblyInfoInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.AssemblyInfo.cs
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.csproj.CoreCompileInputs.cache
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.csproj.CopyComplete
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.dll
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\refint\08-rfk.dll
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.pdb
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\08-rfk.genruntimeconfig.cache
+C:\Users\school_and_work\OneDrive\Documents\GitRepos\studioqy\pwc\W08\08-rfk\obj\Debug\net5.0\ref\08-rfk.dll

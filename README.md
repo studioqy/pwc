@@ -46,3 +46,78 @@ TODO: Update assignments chart
 | 10 | Team Activity | Vehicle Accidents |
 | 10 | Assiginment | Receipt |
 | 13 | Project | Journaling Prompt Generator |
+
+Details on each of the programs are included below:
+
+e
+
+---
+
+## Week 1
+
+#### Grade Calculator - Solo
+
+#### Guess My Number - Solo
+
+#### Name Formatting - Solo
+
+---
+
+## Week 2
+
+#### Tic Tac Toe - Solo
+
+---
+
+## Week 3
+
+Week 3 focused on version control and getting the hang of git and GitHub. No programs made were significant.
+
+---
+
+## Week 4
+
+#### Dice - Solo
+
+#### Hi Lo - Team
+
+---
+
+## Week 5
+
+#### Hide and Seek - Solo
+
+Experience the thrill of the chase! _Hide and seek_ might seem easy but even the
+best get lost from time to time. The rules are simple. The seeker guesses the
+hider's location and the hider provides a hint - that's confidence! Guessing
+continues until the hider is found.
+
+_Date Completed: Date_
+
+_Required Technologies: .NET 5.x_
+
+#### Jumper - Team
+
+---
+
+## Week 6
+
+#### Nim - Solo
+
+#### Mastermind - Team
+
+---
+
+## Week 7
+
+#### Snake - Solo
+
+#### Speed - Team
+
+---
+
+## Week 8
+
+#### Robot Finding Kitten - Solo
+
+#### Batter - Team

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwB1+552J2gQXln8YtljWU7e1nJFYOyzWM6mSfNzr2LLRJ8ldLEKNlw5CJ4QD9jK59YyTAbIJswQUFWxFODeaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\school_and_work\\OneDrive\\Documents\\GitRepos\\studioqy\\pwc\\W08\\08-rfk\\08-rfk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\school_and_work\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\school_and_work\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\school_and_work\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
